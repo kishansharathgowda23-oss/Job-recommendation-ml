@@ -97,7 +97,7 @@ This project builds an AI-powered system that:
 ---
 
 ##  Achievement
-🎯 Top 10 Finalist – AI IN ACTION Hackathon
+ Top 10 Finalist – AI IN ACTION Hackathon
 
 ---
 
